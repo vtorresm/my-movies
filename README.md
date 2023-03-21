@@ -1,8 +1,13 @@
-# Aplicación de Peliculas
+# Aplicación de Películas
+
+## Frontend Aplicación de Películas
 
 # ![Aplicación de Peliculas](https://raw.githubusercontent.com/vtorresm/my-movies/main/src/assets/MovieBD1.jpg)
 
 # ![Aplicación de Peliculas](https://raw.githubusercontent.com/vtorresm/my-movies/main/src/assets/MovieBD2.jpg)
+
+## Backend Aplicación de Películas
+# ![Aplicación de Peliculas](https://github.com/vtorresm/movies)
 
 # Getting Started with Create React App
 
