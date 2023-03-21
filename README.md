@@ -1,4 +1,8 @@
+# Aplicación de Peliculas
+
 # ![Aplicación de Peliculas](https://raw.githubusercontent.com/vtorresm/my-movies/main/src/assets/MovieBD1.jpg)
+
+# ![Aplicación de Peliculas](https://raw.githubusercontent.com/vtorresm/my-movies/main/src/assets/MovieBD2.jpg)
 
 # Getting Started with Create React App
 
